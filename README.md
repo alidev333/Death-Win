@@ -14,3 +14,11 @@ Right and left to move to move right and left
 Top to jump
 Or use W to jump and AD to move left and right
 You can also jump by pressing Space
+
+## Screen Shots
+
+https://raw.githubusercontent.com/alidev333/Death-Win/0f4b85fd8fc5dd25783f2aa6ad1574b4a5ce312b/Screenshot%202024-05-06%20162402.png
+
+https://raw.githubusercontent.com/alidev333/Death-Win/0f4b85fd8fc5dd25783f2aa6ad1574b4a5ce312b/Screenshot%202024-05-06%20162331.png
+
+https://raw.githubusercontent.com/alidev333/Death-Win/0f4b85fd8fc5dd25783f2aa6ad1574b4a5ce312b/Screenshot%202024-05-06%20162248.png
